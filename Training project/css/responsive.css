@@ -1,0 +1,27 @@
+@media(max-width:768px){
+
+.task-form{
+    grid-template-columns:1fr;
+}
+
+.task-form textarea,
+.task-form button{
+    grid-column:1;
+}
+
+.controls{
+    flex-direction:column;
+}
+
+.controls input,
+.controls select,
+.controls button{
+    width:100%;
+}
+
+header{
+    flex-direction:column;
+    gap:15px;
+}
+
+}

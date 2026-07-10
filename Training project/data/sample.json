@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn JavaScript",
+      "description": "Study closures and scope",
+      "priority": "High",
+      "dueDate": "2026-07-20",
+      "category": "Personal",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Project Meeting",
+      "description": "Discuss JavaScript project",
+      "priority": "Medium",
+      "dueDate": "2026-07-22",
+      "category": "Office",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Practice Fetch API",
+      "description": "Load JSON using fetch()",
+      "priority": "Low",
+      "dueDate": "2026-07-25",
+      "category": "Personal",
+      "completed": true
+    }
+  ]
+}

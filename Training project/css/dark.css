@@ -1,0 +1,25 @@
+body.dark{
+    background:#121212;
+    color:white;
+}
+
+body.dark section{
+    background:#1f1f1f;
+}
+
+body.dark input,
+body.dark textarea,
+body.dark select{
+    background:#2d2d2d;
+    color:white;
+    border:1px solid #555;
+}
+
+body.dark .task-card{
+    background:#2b2b2b;
+}
+
+body.dark header,
+body.dark footer{
+    background:#111827;
+}
